@@ -1,0 +1,87 @@
+* {
+    padding: 0px;
+    margin-top: 0px;
+    list-style-type: none;
+    list-style: none;
+}
+
+.home {
+    width: 1200px;
+    background-color: black;
+    height: 1000px;
+    padding: 0px;
+    margin-top: 50px;
+}
+
+.ostun {
+    background-color: #275478;
+    width: 1200px;
+    height: 120px;
+}
+
+.menu {
+    width: 1200px;
+    height: 130px;
+    background-color: white;
+    text-align: center;
+}
+
+.about {
+    width: 1200px;
+    height: 750px;
+    background-color: #3faaff;
+}
+
+.load {
+    padding-top: 200px;
+    color: white;
+    margin-right: 490px;
+}
+
+.text {
+    font-size: 65px;
+}
+
+.text2 {
+    font-size: 65px;
+    margin-top: -75px;
+    margin-right: 470px;
+}
+
+.text3 {
+    font-size: 45px;
+    margin-right: -20px;
+    margin-top: -50px;
+}
+
+.text4 {
+    font-size: 30;
+    margin-top: -70;
+    margin-left: 65;
+}
+
+.text5 {
+    font-size: 30;
+    margin-top: -55;
+    margin-left: 65;
+}
+
+.img {
+    margin-left: 250px;
+    margin-top: -315px;
+    width: 740px;
+    box-shadow: 5px gray inset;
+    margin-left: 300px;
+}
+
+.img2 {
+    width: 3rem;
+    margin-top: -0px;
+    margin-right: 235px;
+}
+
+.img3 {
+    width: 3rem;
+    margin-top: 20px;
+    margin-right: 235px;
+}

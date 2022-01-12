@@ -1,0 +1,68 @@
+.menu ul {
+    width: 800px;
+    padding-left: 230px;
+    padding-top: 40px;
+    margin-left: 10px;
+    list-style-type: none;
+}
+
+.menu li {
+    float: left;
+    margin-left: 15px;
+}
+
+.menu li a {
+    display: block;
+    width: 152px;
+    height: 50px;
+    line-height: 55px;
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    font-size: 25px;
+    transition: all ease-in .3s;
+}
+
+.menu li a:hover {
+    background-color: white;
+    border-top: red 5px solid;
+    color: black;
+}
+
+.whtols {
+    margin-right: 800px;
+}
+
+.face {
+    padding-left: 15px;
+}
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    margin-left: 15px;
+    line-height: 10px;
+    height: 10;
+    width: 100px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+.fa-google {
+    background: #dd4b39;
+    color: white;
+}
